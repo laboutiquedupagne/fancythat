@@ -3179,7 +3179,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .m-text1 {
 	font-family: Montserrat-Regular;
 	font-size: 18px;
-	color: white;
+	color: black;
 	line-height: 1.5;
 	letter-spacing: 2px;
 }
@@ -3408,7 +3408,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .xl-text2 {
 	font-family: Poppins-Black;
 	font-size: 80px;
-	color: white;
+	color: #dc3545;
 	line-height: 1.2;
 	letter-spacing: 4px;
 	text-transform: uppercase;
