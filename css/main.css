@@ -1674,6 +1674,14 @@ li.sale-noti > a {
   content: 'Sale';
 }
 
+.item-product-label {
+    width: 100%;
+    display: block;
+    background: #4f316c;
+    color: #fff;
+    padding: 5px;
+}
+
 .block2-labelnew::before {
   background-color: #66a8a6;
   content: 'New';
